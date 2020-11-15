@@ -200,66 +200,7 @@ function showSlides() {
   <div class="w3-container w3-padding-32" id="projects">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">READ AND ENJOY YOUR DAY</h3>
   </div>
-<br>
-  <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topright w3-black w3-padding"><a href="Summer House">THE TORTOISE, ELEPHAT AND HIPOPOTEMUS </a></div>
-        
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding"><a href ="#elephant">THE TORTOISE AND THE MEDICINE MAN</a></div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:100%">
-      </div>
-    </div>
-    
-   <br>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding"><a href ="#FISH">THE FISH HOME</a></div>
-       </div>
-    </div>
-  </div>
-  <br>
-  <p>
- 
-   <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding"><a href ="TATABIATA AND THE UNKNOW.html">THE UNKNOWN HUSBAND</a></div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:99%">
-      </div>
-	  
-	  <br>
 
-	  
-	  </p>
-</br>
- <p>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding"><a href="THE TORTOISE AND APIANPIAN.html">THE TORTOISE AND APIANPIAN</a></div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:99%">
-      </div>
-    </div>
-	</p>
-	
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding"><a href="THE TORTOISE AND THE MEDICINE MAN.html">THE TORTOISE AND THE MEDICINE MAN</a></div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:99%">
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding"></div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:99%">
-      </div>
-    </div>
-  </div>
 
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
