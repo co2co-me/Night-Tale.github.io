@@ -1,65 +1,191 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="en-gb" dir="ltr">
 <title>AFRICAN MOONLIGHT NIGHT-TALE ENTERTAINMENT</title>
-<meta charset="utf-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<img src="image3.jpg" alt="queen"  width="1300" height="400">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<header background-color="blue">
+
 <style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-}
-.example1 {
- height: 50px;	
- overflow: hidden;
- position: relative;
-}
-.example1 h3 {
- font-size: 3em;
- color: limegreen;
- position: absolute;
- width: 100%;
- height: 100%;
- margin: 0;
- line-height: 50px;
- text-align: center;
- }
 
-body {
-  background-color: white;
-  }
- 
-  header {
-  background-color: #666;
-  padding: 30px;
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 100%;
+  padding: 50px;
+  height: 100%; /* Should be removed. Only for demonstration */
+}
+
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
   text-align: center;
-  font-size: 35px;
-  color: white;
-
 }
 
- 
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
 
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+body {
+  background-color: red;
+  width: 100%; 
+  
+}
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+Title{
+background-image: image5.jpg;
+ width: 1200; 
+ height: 400;
+ }
+ 
+  img {
+  border-radius: 50%;
+}
 </style>
+
+
+<body>
+
+
+
+
+<!-- Slideshow container -->
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image1.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image2.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"></div>
+  <img src="image3.jpg" style="width:100%">
+ 
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
 <div>
 <marquee bgcolor= "red">WELCOM TO AFRICAN MOONLIGHT NIGHT-TALE ENTERTAMENT</marquee>
 </div>
 <div><marquee>PLEASE REMEMBER TO SHARE!</marquee></div>
 <body>
-<header> THE WICKED QUEEN</header>
+<header align = "center"><h1> THE WICKED QUEEN</<h1></header>
 <div>
 
  
-<p  style="float:left;width:50%;"> 
+<div>
 
-<p>TH WICKED QUEEN</p>
-<br>
- <p  style="float:left;width:50%;">
- <b>
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+<p>
 		Once up a time, there lived in a distant land a handsome prince named ovuen. ovuen lived in a splendid palace with his father, the ruler of the land, who was called in those days a Ogieze. ovuen's mother had died when he was a baby, and when he was a young boy his father married again. So ovuen also lived with his stepmother, the queen, along with her son, a lad named Uki.
 ovuen's father and his stepbrother, Uki, loved him dearly, but his stepmother hated him with a passion. She desperately wanted her own son, Uki, to be the one to inherit the throne. So, while the two boys lived happily together, never suspecting evil, this wicked woman plotted a schemed to somehow get rid of ovuen forever.
 At last, one day, she thought of a plan. Going to her room, she lay down, groaning and crying out as if she were sick and in frightful pain. The Ogieze the king was soon notified and was much alarmed when he found the queen in such a bad way.
@@ -89,12 +215,11 @@ At last, in some mysterious way, the Oba learned of two lads living with the her
 The old man noticed the Oba's soldiers coming across the desert and at once guessed why they were there. While the men were still far off, he ran quickly to the two boys and urged them to hide. Ovuen climbed into a barrel of mangos, crouching down until they covered him, and Uki hid in a sack of grain. When the soldiers pounded on the red door, the hermit allowed the soldiers to enter.
 "Boys?" he said, in answer to their question. "I have no sons! I am an old man and have lived in this desert many a long year without wife or child to bear me company. You must be mistaken!"
 The solders roughly pushed the hermit
-
-
-
-
-  
+</p>
+ </div>
  
+<div class="column" style="background-color:#bbb;">
+ <p>
 "You had better not lie to the Oba's soldiers!" the captain threatened.
 "I have told you no lie," replied the hermit, "but if you doubt my word, come in and see for yourselves."
 With a growl and an oath, the captain seized the hermit by his long white beard and shook him.
@@ -103,13 +228,7 @@ With a growl and an oath, the captain seized the hermit by his long white beard 
  know there is a boy here, and my orders are to fetch him, so bring him out at once - and hurry up with it!"
 He raised his sword over the hermit's head, but before he could swing it down, Ovuen leaped out from his hiding place, and caught hold of the captain's arm.
 "Oho!" said the captain to the lad. "So you are here, after all!"
-</b>
-</p>
 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p  style="float:right;width:48%;">
 
 The soldiers gathered around Ovuen, bound his hands behind his back, flung him on a horse and, without giving him a moment to bid farewell to the grief-stricken old hermit, rode away. Not until the captain had gone far over the desert on their way to the Oba's palace did he remember that he had been told there were two boys living with the hermit. He stopped abruptly, wheeled his horse around and gave orders that the troop should return at once to the old man's cave. Ovuen guessed what was in the captain's mind, and his heart sank.
 "There will be no possible escape this time for my brother," he thought, "the soldiers will surprise Uki before he has time to hide!" At last he groaned aloud.
@@ -139,7 +258,9 @@ By my magic power I declare your bonds broken!  Go, and from henceforth think of
 Once freed, the princess went back to her father, who was overcome with sorrow and regret now that his anger had cooled, and Ovuen hastened back to the cave in the desert to relieve the minds of the good old hermit and Uki, his faithful brother.
 Not long after, as perhaps you supposed, there was a great royal wedding, a double one in fact - for not only did Ovuen marry the lovely elder princess, but Uki found an almost equally beautiful bride in her younger sister.
 The prophecy which the Oba had dreaded for so long came true, but in a very different way than he had expected. It turns out that he did indeed lose his throne and crown to a strange lad, but he gave them up of his own free will to Ovuen, because he had grown to love his son-in-law so dearly, and because he was old and weary and had no greater wish in life than to see his elder daughter and her husband ruling over the kingdom. So they all lived happily ever after. And - oh yes! - they soon paid a visit to Ovuen's father and found him grown old and gray, sorrowing for his two dear lost sons. The wicked queen had meanwhile died, just because she was too wicked to live. Ovuen's new father-in-law was happy to offer Ovuen's father a position of great importance at his palace. So the father was reunited with the two young men, and everybody lived happily ever after.
-</p>
+</div>
+ </div>
+ </p>
 <br>
 
 
