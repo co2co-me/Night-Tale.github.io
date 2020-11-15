@@ -267,10 +267,10 @@ function showSlides() {
     <p><b>in today's world a lot of people are facing severe problem of depressions and metal complication due to the problem we faced in our daily life, the world is becoming more
        	stressful and difficult place to live, thanks to social media via the help of internet which now keep so many people active and busy, people now finding
 		solace on social medial, in this page we tried as much as possible to put together old AFRICAN night-tale stories that used to bring families and friends together in those days before the advent of Internet
-		we put together knowledge and entertainment to enable readers have a good time while visiting our pages, we have here a lots of African  Fable stories to will help you spend your time most especially while on a journey
+		we put together knowledge and entertainment to enable readers have a good time while visiting our pages, we have here a lots of African  Fable stories to help you spend your time most especially while on a journey
         . we hope you find joy and satisfaction while having your time on these pages.
 Read the best collection of free bedtime stories, short stories for kids, fairy tales, online story books with kids art, audio stories, funny stories, poems. Read a bedtime story with a child tonight! 
-Enjoy our collection of 5 min bedtime stories for kids below:  </b>	
+Enjoy our collection of 5 minutes bedtime stories for kids and adults alike below:  </b>	
 	
     </p>
   </div>
