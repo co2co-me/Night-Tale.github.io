@@ -242,8 +242,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
   <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="queen.jpg" alt="MAMA AFRICAN" style="width:85%">
       <h6><a href="THE WICKED QUEEN.html">TH WICKED QUEEN</b></a></h6>
-      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p> 
-       <a href= http://villagegist.binaryweb.com.ng/admin/index.phphttp://villagegist.binaryweb.com.ng/admin/index.php">Visit VillageGist.com!</a>
+      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
  
     </div>
   </div>
@@ -290,7 +289,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
 
   <!-- Your share button code -->
   <div class="fb-share-button" 
-    data-href="https://www.your-domain.com/your-page.html" 
+    data-href="https://www.thevillagegist.com/your-page.html" 
     data-layout="button_count">
   </div>
 
