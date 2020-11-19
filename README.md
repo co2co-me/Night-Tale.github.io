@@ -243,9 +243,10 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
       <img src="queen.jpg" alt="MAMA AFRICAN" style="width:85%">
       <h6><a href="THE WICKED QUEEN.html">TH WICKED QUEEN</b></a></h6>
       <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p> 
+       <a href= http://villagegist.binaryweb.com.ng/admin/index.phphttp://villagegist.binaryweb.com.ng/admin/index.php">Visit VillageGist.com!</a>
+ 
     </div>
   </div>
-  <a href= http://villagegist.binaryweb.com.ng/admin/index.phphttp://villagegist.binaryweb.com.ng/admin/index.php">Visit VillageGist.com!</a>
  
 
   <!-- Contact Section -->
