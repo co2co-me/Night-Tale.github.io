@@ -1,5 +1,5 @@
 WELCOME TO AFRICAN STORIES BLOQ
-This is a site of moonlight tale, where you can relax and enjoy, spend your time
+This is a site of moonlight tale, where you can relax and enjoy, spend your time.
 <html lang="en-gb" dir="ltr">
 <title>AFRICAN MOONLIGHT NIGHT-TALE ENTERTAINMENT</title>
 
