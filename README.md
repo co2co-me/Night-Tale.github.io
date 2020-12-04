@@ -255,6 +255,15 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
       <h6><a href="the sleeping princess.html">THE SLEEPING QUEEN</b></a></h6>
       <p><button class="w3-button w3-light-blue w3-block"><a href="the sleeping princess.html">VISIT SITE</a></button></p>
     </div>
+    
+    <p>
+   <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%"> 
+
+      <h6><a href="Biography.html">PASTOR FELIX ITAMAN UWAMUSI</b></a></h6>
+      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+    </div>
+    
   </div>
   </p>
   
