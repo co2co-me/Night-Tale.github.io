@@ -156,7 +156,7 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
-
+<script data-ad-client="ca-pub-5928582715400854" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Navbar (sit on top) -->
 <div class="w3-float">
   <div class="w3-bar w3-black w3-wide w3-padding w3-card">
