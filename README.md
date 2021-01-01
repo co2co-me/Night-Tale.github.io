@@ -258,7 +258,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
     
      <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="THE UNKNOWSTRANGER.jpg" alt="MAMA AFRICAN" style="width:85%">
-      <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</b></a></h6>
+      <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</a></h6>
      ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div
