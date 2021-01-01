@@ -218,13 +218,13 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image6.jpg" alt="John" style="width:95%">
-      <h3><a href="THE LION AND THE RAT.html"><b>THE LION AND THE RAT</b></a></h3>
+      <h3><a href="THE LION AND THE RAT.html"><b>THE LION AND THE RAT</a></h3>
       
       <p><button class="w3-button w3-light-grey w3-block">VISIT SITE</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image2.jpg" alt="smile" style="width:100%">
-      <p><a href="THE TORTOISE AND APIANPIAN.html"><b>THE TORTOISE AND APIANPIAN</b></a></p>
+      <p><a href="THE TORTOISE AND APIANPIAN.html"><b>THE TORTOISE AND APIANPIAN</a></p>
       <p><button class="w3-button w3-light-grey w3-block"><a href="THE TORTOISE AND APIANPIAN.html">VISIT SITE</a></button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -235,13 +235,13 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image4.jpg" alt="MAMA AFRICAN" style="width:100%"> 
 
-      <h6><a href="TATABIATA AND THE UNKNOW.html">TATABIATA AND THE UNKNOWN MAN</b></a></h6>
+      <h6><a href="TATABIATA AND THE UNKNOW.html">TATABIATA AND THE UNKNOWN MAN</a></h6>
       <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div>
   <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="queen.jpg" alt="MAMA AFRICAN" style="width:85%">
-      <h6><a href="THE WICKED QUEEN.html">TH WICKED QUEEN</b></a></h6>
+      <h6><a href="THE WICKED QUEEN.html">TH WICKED QUEEN</a></h6>
       <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
  
     </div>
@@ -258,14 +258,14 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
     
      <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="THE UNKNOWSTRANGER.jpg" alt="MAMA AFRICAN" style="width:85%">
-      <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</b></a></h6>
+      <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</a></h6>
      ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div
   <P>
 	 <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="funnyFowl.jpeg" alt="FUNNY FOWL" style="width:85%">
-      <h6><a href="FUNNY FOWL.html">THE FUNNY FOWL</b></a></h6>
+      <h6><a href="FUNNY FOWL.html">THE FUNNY FOWL</a></h6>
      ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div
