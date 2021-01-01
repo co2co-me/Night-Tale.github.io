@@ -235,7 +235,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image4.jpg" alt="MAMA AFRICAN" style="width:100%"> 
 
-      <h6><a href="TATABIATA AND THE UNKNOW.html">TATABIATA AND THE UNKNOWN MAN</b></a></h6>
+      <h6><a href="TATABIATA AND THE UNKNOW.html">TATABIATA AND THE UNKNOWN MAN</a></h6>
       <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div>
@@ -259,9 +259,9 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
      <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="THE UNKNOWSTRANGER.jpg" alt="MAMA AFRICAN" style="width:85%">
       <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</a></h6>
-     ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+     <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
-  </div
+
   <P>
 	 <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="funnyFowl.jpeg" alt="FUNNY FOWL" style="width:85%">
