@@ -252,7 +252,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
   <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="thesleepingqueen.jpg" alt="THE SLEEPING QUEEN" style="width:100%"> 
 
-      <h6><a href="the sleeping princess.html">THE SLEEPING QUEEN</b></a></h6>
+      <h6><a href="the sleeping princess.html">THE SLEEPING QUEEN</a></h6>
       <p><button class="w3-button w3-light-blue w3-block"><a href="the sleeping princess.html">VISIT SITE</a></button></p>
     </div>
     
